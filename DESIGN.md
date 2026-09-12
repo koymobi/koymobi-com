@@ -562,6 +562,7 @@ Become a Partner
 - Updated all Privacy Policy company-location references to KOYMOBI's confirmed Hong Kong location and full office address.
 - Centered the homepage portfolio section heading and supporting copy, keeping the heading on one line at desktop widths.
 - Shortened the Audience targeting heading and kept it on one line at desktop widths to avoid an awkward hyphenated line break.
+- Rebuilt the homepage hero operating-model visual as a wider, lower landscape card with clearer spacing, full WEB / APP labels and only the confirmed SSP, Ad Exchange and DSP partner categories.
 
 Use a clean centered layout.
 

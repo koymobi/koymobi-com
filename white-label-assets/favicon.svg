@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="icon-title">
+  <title id="icon-title">KOYMOBI icon</title>
+  <path d="M13 5h36c7 0 12 5 12 12v30c0 7-5 12-12 12H13C6 59 2 54 4 47l7-31C13 9 7 5 13 5Z" fill="#F2385A"/>
+  <path d="M20 17v30M22 32l17-16M22 32l18 15" fill="none" stroke="#FFFFFF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="41" cy="47" r="4" fill="#20A46B"/>
+</svg>

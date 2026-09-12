@@ -1,0 +1,17 @@
+KOYMOBI White Label 上传资料
+
+【Appearance】
+Favicon：favicon.jpg
+Logo：logo.png（透明背景，推荐上传）
+
+【Ad branding】
+Default position：Top Left
+Title：KOYMOBI
+URL：https://koymobi.com/
+Icon：icon.jpg
+
+文件规格：
+- favicon.jpg：128 × 128 px，小于 15 KiB
+- logo.png：440 × 110 px，透明背景，小于 30 KiB
+- logo.jpg：440 × 110 px，白色背景备用，小于 30 KiB
+- icon.jpg：32 × 32 px，小于 5 KiB
