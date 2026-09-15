@@ -563,6 +563,7 @@ Become a Partner
 - Centered the homepage portfolio section heading and supporting copy, keeping the heading on one line at desktop widths.
 - Shortened the Audience targeting heading and kept it on one line at desktop widths to avoid an awkward hyphenated line break.
 - Rebuilt the homepage hero operating-model visual as a wider, lower landscape card with clearer spacing, full WEB / APP labels and only the confirmed SSP, Ad Exchange and DSP partner categories.
+- Enlarged the shared footer wordmark and allowed its height to scale naturally so the KOYMOBI mark remains legible inside the white brand capsule.
 
 Use a clean centered layout.
 

@@ -241,7 +241,7 @@ p { margin: 0; }
 .contact-aside { padding: 36px; border-radius: 26px; background: radial-gradient(circle at 100% 0, rgba(242,56,90,.38), transparent 38%), var(--navy); }
 .field input:focus, .field select:focus, .field textarea:focus { border-color: var(--brand); box-shadow: 0 0 0 3px rgba(242,56,90,.1); }
 .site-footer { border-top: 6px solid var(--brand); }
-.footer-logo { width: 184px; padding: 8px 12px; border-radius: 14px; background: #ffffff; filter: none; }
+.footer-logo { width: 220px; height: auto; padding: 11px 16px; border-radius: 16px; background: #ffffff; filter: none; }
 .tag:nth-child(3n+1) { background: #fff0f3; border-color: #fac4cf; color: #9f1239; }.tag:nth-child(3n+2) { background: #ecfdf5; border-color: #a7f3d0; color: #067647; }.tag:nth-child(3n) { background: #ecfeff; border-color: #a5f3fc; color: #0e7490; }
 .dark-card { border-color: #343a34; background: rgba(255,255,255,.055); color: #fff; }
 .dark-card p { color: #b7c0ce; }
